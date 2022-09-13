@@ -1,4 +1,4 @@
-# 🚀 about
+# 🚀 About
 
 - 🦇 night owl
 - 💬 I like to solve problems
