@@ -2,7 +2,6 @@
 
 - 🦇 night owl
 - 💬 I like to solve problems
-- 📫 najamul.din@retailo.co
 
 
 # 🛠 Tech Stack
