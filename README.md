@@ -23,7 +23,3 @@
 - :cloud: Cloud: ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-circle&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/Heroku-430098?style=flat-circle&logo=heroku&logoColor=white) ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-circle&logo=github-actions&logoColor=white)
 
 - 🌱 Learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
-
-# :chart: Stats
-
-![](https://github-readme-stats.vercel.app/api?username=najamuldin&theme=blue-green)
